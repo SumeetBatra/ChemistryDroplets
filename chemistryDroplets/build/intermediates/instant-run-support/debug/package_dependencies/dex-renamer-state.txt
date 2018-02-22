@@ -1,0 +1,19 @@
+#Wed Feb 21 21:17:13 MST 2018
+renamed.5=classes3.dex
+renamed.4=classes4.dex
+renamed.3=classes5.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes6.dex
+base.5=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a61650c30a8cd9463b6f6bd9a8395874078e959
+base.4=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2514a8f22522d3dabb70c2c9b86e1e3aadee8296
+base.3=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b4c2b233f6a418bfd79970bb3b15e16ddaa3944f
+base.2=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb6e2c7a3775f8b1ba8b5d5f36f43e76df8f6656
+base.1=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5df7eceb290c20aa8d22007dcd6de55f5e034371
+base.0=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_62c5cf57c6a0c84588124d494d524b68d60a2b6d
+file.5=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a61650c30a8cd9463b6f6bd9a8395874078e959/classes.dex
+file.4=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2514a8f22522d3dabb70c2c9b86e1e3aadee8296/classes.dex
+file.3=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b4c2b233f6a418bfd79970bb3b15e16ddaa3944f/classes.dex
+file.2=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb6e2c7a3775f8b1ba8b5d5f36f43e76df8f6656/classes.dex
+file.1=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5df7eceb290c20aa8d22007dcd6de55f5e034371/classes.dex
+file.0=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_62c5cf57c6a0c84588124d494d524b68d60a2b6d/classes.dex

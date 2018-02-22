@@ -1,0 +1,4 @@
+#Wed Feb 21 21:17:13 MST 2018
+base.0=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

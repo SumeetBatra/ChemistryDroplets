@@ -1,0 +1,7 @@
+#Wed Feb 21 21:17:13 MST 2018
+base.0=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ca74677a9978b312a3109a43e21c824b2fe1e55a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_72930ef5244a350f62b0fd482037db0d3d544ac0/classes.dex
+base.1=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_72930ef5244a350f62b0fd482037db0d3d544ac0
+file.0=/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ca74677a9978b312a3109a43e21c824b2fe1e55a/classes.dex

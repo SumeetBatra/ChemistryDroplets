@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_upward_black_24dp.png",
+        "source": "/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/src/main/res/drawable-mdpi/ic_arrow_upward_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/build/intermediates/res/merged/debug/drawable-mdpi/ic_keyboard_arrow_up_black_24dp.png",
+        "source": "/Users/sumeetbatra/Dropbox/ChemistryDroplets/chemistryDroplets/src/main/res/drawable-mdpi/ic_keyboard_arrow_up_black_24dp.png"
+    }
+]
